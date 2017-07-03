@@ -1,1 +1,1 @@
-print ("hello rolwd")
+print ("hello world")
