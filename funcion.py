@@ -7,7 +7,7 @@ def saludar(nombre, mensaje):
 def preguntarEdad():
     edad = int(raw_input('Introduce tu edad...:'))
     if (edad > 35):
-    print 'Enhorabuena!';
+        print 'Enhorabuena!';
    
     return edad
 
