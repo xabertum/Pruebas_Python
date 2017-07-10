@@ -13,14 +13,14 @@ def preguntarEdad():
 
 
 def calcularFecha():
-   date = 2017 - preguntarEdad()
-   print('Tu fecha de nacimiento es: ' + str(date))
+    date = 2017 - preguntarEdad()
+print('Tu fecha de nacimiento es: ' + str(date))
 
 
 def quiereSeguirJugando():
-	respuesta = raw_input('Quiere seguir jugando: ')
-	if (respuesta == 's'):
-		calcularFecha()
+    respuesta = raw_input('Quiere seguir jugando: ')
+    if (respuesta == 's'):
+        calcularFecha()
 
 
 saludar('Javier', 'Bienvenido a ti mismo')
