@@ -14,7 +14,7 @@ def preguntarEdad():
 
 def calcularFecha():
     date = 2017 - preguntarEdad()
-print('Tu fecha de nacimiento es: ' + str(date))
+    print('Tu fecha de nacimiento es: ' + str(date))
 
 
 def quiereSeguirJugando():
