@@ -10,6 +10,7 @@ def intCount (n):
         digits = 1
     else:
         digits = int(math.log10(-n)) + 1
-    print digits
+    return digits
 
-intCount(num)
+print intCount(num)
+
