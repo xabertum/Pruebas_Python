@@ -21,6 +21,8 @@ def quiereSeguirJugando():
     respuesta = raw_input('Quiere seguir jugando: ')
     if (respuesta == 's'):
         calcularFecha()
+    else:
+        print 'Gracias!'
 
 
 saludar('Javier', 'Bienvenido a ti mismo')
