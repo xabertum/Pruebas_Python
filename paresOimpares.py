@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 
-def preguntarUsuario ():
+def preguntarUsuario():
     respuesta = input('Quieres ver los pares "p" o los impares "i" : ')
 
     return respuesta
@@ -19,8 +19,3 @@ elif preguntarUsuario() == 'i':
 
 else:
     print('Gracias por participar... ')
-
-
-
-
-
