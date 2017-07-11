@@ -21,6 +21,7 @@ def impuestos():
         impuesto = salario * 0.1
     else:
         impuesto = salario * 0.15
+
     return impuesto
 
 
