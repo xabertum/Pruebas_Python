@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 
-presion_atm = ['alta', 'media', 'baja']
-humedad_relativa = ['alta', 'media', 'baja']
 
 user_presion_atm = input('Introduzca el nivel de presion atmosferica (0,1,2): ')
 user_humedad_realativa = input('Introduzca el nivel de humadad relativa (0,1,2,): ')
@@ -21,6 +19,7 @@ def probabilidad_lluvia():
 
     else:
         print('>>>> Probabilidad de lluvia BAJA <<<<')
+
 
 
 def probabilidad_sol():
@@ -60,3 +59,4 @@ def probabilidad_frio():
 probabilidad_lluvia()
 probabilidad_sol()
 probabilidad_frio()
+
