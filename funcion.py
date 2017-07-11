@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 
 def saludar(nombre, mensaje):
-    print nombre, mensaje
+    print (nombre, mensaje)
 
 
 def preguntarEdad():
-    edad = int(raw_input('Introduce tu edad...:'))
+    edad = int(input('Introduce tu edad...:'))
     if (edad > 35):
-        print 'Enhorabuena!';
+        print ('Enhorabuena!')
    
     return edad
 
@@ -18,11 +18,11 @@ def calcularFecha():
 
 
 def quiereSeguirJugando():
-    respuesta = raw_input('Quiere seguir jugando: ')
+    respuesta = input('Quiere seguir jugando: ')
     if (respuesta == 's'):
         calcularFecha()
     else:
-        print 'Gracias!'
+        print ('Gracias!')
 
 
 saludar('Javier', 'Bienvenido a ti mismo')
