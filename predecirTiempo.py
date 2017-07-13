@@ -21,7 +21,6 @@ def probabilidad_lluvia():
         print('>>>> Probabilidad de lluvia BAJA <<<<')
 
 
-
 def probabilidad_sol():
     if user_presion_atm == 2:
         if user_humedad_realativa == 0:
@@ -56,7 +55,7 @@ def probabilidad_frio():
     else:
         print('>>>> Probabilidad de lluvia BAJA <<<<')
 
+
 probabilidad_lluvia()
 probabilidad_sol()
 probabilidad_frio()
-
