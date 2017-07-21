@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e0ddd0d5-3701-4be8-b39f-c580189772b1" name="Default" comment="minor changes" />
+=======
+<<<<<<< HEAD
+    <list default="true" id="0d051f2f-f7ce-429f-82c1-18db4815bc9c" name="Default" comment="added file" />
+=======
+    <list default="true" id="e0ddd0d5-3701-4be8-b39f-c580189772b1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mayorMenosMenor.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+>>>>>>> bce2f6d5b4c79639aad76bb08c33be3e8fe54987
+>>>>>>> 4b521e0d183569e992f7767a86e1d6aa2f292507
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,6 +21,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+<<<<<<< HEAD
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="area_circulo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/area_circulo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="positivonegativo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/positivonegativo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+=======
   <component name="ExportToHTMLSettings">
     <option name="OUTPUT_DIRECTORY" value="C:\Users\Javier Delgado\Documents\MEGAsync\www\Python\pruebas_python\exportToHTML" />
   </component>
@@ -25,7 +54,12 @@
         <entry file="file://$PROJECT_DIR$/positivonegativo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
+<<<<<<< HEAD
               <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+=======
+>>>>>>> bce2f6d5b4c79639aad76bb08c33be3e8fe54987
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+>>>>>>> 4b521e0d183569e992f7767a86e1d6aa2f292507
               <folding />
             </state>
           </provider>
@@ -34,13 +68,19 @@
       <file leaf-file-name="raizcuadrada.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/raizcuadrada.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
             <state relative-caret-position="51">
               <caret line="3" column="47" lean-forward="false" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+>>>>>>> bce2f6d5b4c79639aad76bb08c33be3e8fe54987
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="mayorMenosMenor.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mayorMenosMenor.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -56,19 +96,46 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-187">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+<<<<<<< HEAD
+      <file leaf-file-name="fechaBisiesto.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fechaBisiesto.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+=======
+      <file leaf-file-name="mayorMenosMenor.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mayorMenosMenor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+>>>>>>> bce2f6d5b4c79639aad76bb08c33be3e8fe54987
+>>>>>>> 4b521e0d183569e992f7767a86e1d6aa2f292507
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file leaf-file-name="funcion.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/funcion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+=======
       <file leaf-file-name="area_circulo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/area_circulo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+<<<<<<< HEAD
               <folding>
                 <marker date="1499675902000" expanded="true" signature="54:55" ph="..." />
               </folding>
+=======
+>>>>>>> bce2f6d5b4c79639aad76bb08c33be3e8fe54987
+              <folding />
+>>>>>>> 4b521e0d183569e992f7767a86e1d6aa2f292507
             </state>
           </provider>
         </entry>
@@ -90,16 +157,28 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/positivonegativo.py" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/funcion.py" />
+        <option value="$PROJECT_DIR$/fechaBisiesto.py" />
+=======
         <option value="$PROJECT_DIR$/raizcuadrada.py" />
         <option value="$PROJECT_DIR$/mayorMenosMenor.py" />
+>>>>>>> bce2f6d5b4c79639aad76bb08c33be3e8fe54987
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
+    <option name="x" value="2551" />
+    <option name="y" value="25" />
+    <option name="width" value="1938" />
+    <option name="height" value="1064" />
+=======
     <option name="x" value="-8" />
     <option name="y" value="22" />
     <option name="width" value="1382" />
     <option name="height" value="754" />
+>>>>>>> bce2f6d5b4c79639aad76bb08c33be3e8fe54987
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -116,7 +195,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
       <pane id="Scratches" />
+>>>>>>> bce2f6d5b4c79639aad76bb08c33be3e8fe54987
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -132,12 +214,20 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
+      <pane id="Scratches" />
+=======
+>>>>>>> bce2f6d5b4c79639aad76bb08c33be3e8fe54987
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+=======
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+>>>>>>> bce2f6d5b4c79639aad76bb08c33be3e8fe54987
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -151,8 +241,12 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.poligonos_regulares">
-    <configuration default="false" name="raizcuadrada" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+<<<<<<< HEAD
+  <component name="RunManager" selected="Python.fechaBisiesto">
+    <configuration default="false" name="area_circulo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -164,7 +258,52 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pruebas_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/area_circulo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="positivonegativo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.raizcuadrada">
+>>>>>>> 4b521e0d183569e992f7767a86e1d6aa2f292507
+    <configuration default="false" name="raizcuadrada" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> bce2f6d5b4c79639aad76bb08c33be3e8fe54987
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pruebas_python" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/positivonegativo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="fechaBisiesto" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pruebas_python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fechaBisiesto.py" />
+=======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/raizcuadrada.py" />
+>>>>>>> bce2f6d5b4c79639aad76bb08c33be3e8fe54987
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,6 +409,18 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
+<<<<<<< HEAD
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.area_circulo" />
+      <item index="1" class="java.lang.String" itemvalue="Python.positivonegativo" />
+      <item index="2" class="java.lang.String" itemvalue="Python.fechaBisiesto" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.fechaBisiesto" />
+        <item index="1" class="java.lang.String" itemvalue="Python.positivonegativo" />
+        <item index="2" class="java.lang.String" itemvalue="Python.area_circulo" />
+=======
     <configuration default="false" name="positivonegativo" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,16 +446,81 @@
       <item index="3" class="java.lang.String" itemvalue="Python.poligonos_regulares" />
     </list>
     <recent_temporary>
+<<<<<<< HEAD
       <list size="3">
         <item index="0" class="java.lang.String" itemvalue="Python.poligonos_regulares" />
         <item index="1" class="java.lang.String" itemvalue="Python.mayorMenosMenor" />
         <item index="2" class="java.lang.String" itemvalue="Python.raizcuadrada" />
+=======
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.raizcuadrada" />
+>>>>>>> bce2f6d5b4c79639aad76bb08c33be3e8fe54987
+>>>>>>> 4b521e0d183569e992f7767a86e1d6aa2f292507
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+<<<<<<< HEAD
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d051f2f-f7ce-429f-82c1-18db4815bc9c" name="Default" comment="" />
+      <created>1499631002089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499631002089</updated>
+    </task>
+    <task id="LOCAL-00001" summary="continue">
+      <created>1499669153960</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1499669153960</updated>
+    </task>
+    <task id="LOCAL-00002" summary="continue">
+      <created>1499669237558</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1499669237558</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added file">
+      <created>1499671682448</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1499671682448</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2551" y="25" width="1938" height="1064" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1670224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28820962" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39906102" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+=======
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e0ddd0d5-3701-4be8-b39f-c580189772b1" name="Default" comment="" />
@@ -381,6 +597,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+>>>>>>> bce2f6d5b4c79639aad76bb08c33be3e8fe54987
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,7 +630,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
+    <MESSAGE value="continue" />
+=======
     <MESSAGE value="without def" />
+>>>>>>> bce2f6d5b4c79639aad76bb08c33be3e8fe54987
     <MESSAGE value="added file" />
     <MESSAGE value="minor changes" />
     <option name="LAST_COMMIT_MESSAGE" value="minor changes" />
@@ -477,8 +698,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/area_circulo.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
         <state relative-caret-position="255">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+<<<<<<< HEAD
           <folding>
             <marker date="1499675902000" expanded="true" signature="54:55" ph="..." />
           </folding>
@@ -489,6 +715,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+=======
+>>>>>>> bce2f6d5b4c79639aad76bb08c33be3e8fe54987
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/positivonegativo.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="120">
+          <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/area_circulo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 4b521e0d183569e992f7767a86e1d6aa2f292507
           <folding />
         </state>
       </provider>
@@ -505,23 +751,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/positivonegativo.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+=======
         <state relative-caret-position="204">
+<<<<<<< HEAD
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+=======
+>>>>>>> bce2f6d5b4c79639aad76bb08c33be3e8fe54987
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+>>>>>>> 4b521e0d183569e992f7767a86e1d6aa2f292507
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/funcion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/raizcuadrada.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/raizcuadrada.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="47" lean-forward="false" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+>>>>>>> bce2f6d5b4c79639aad76bb08c33be3e8fe54987
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/fechaBisiesto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+=======
     <entry file="file://$PROJECT_DIR$/mayorMenosMenor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
+<<<<<<< HEAD
           <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
           <folding />
         </state>
@@ -531,11 +806,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-187">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+>>>>>>> bce2f6d5b4c79639aad76bb08c33be3e8fe54987
+>>>>>>> 4b521e0d183569e992f7767a86e1d6aa2f292507
           <folding />
         </state>
       </provider>
     </entry>
   </component>
+<<<<<<< HEAD
+=======
   <component name="masterDetails">
     <states>
       <state key="ScopeChooserConfigurable.UI">
@@ -551,4 +832,5 @@
       </state>
     </states>
   </component>
+>>>>>>> bce2f6d5b4c79639aad76bb08c33be3e8fe54987
 </project>
