@@ -10,15 +10,16 @@ def conversor(cant, unidad, unidad_conv):
         pass
     else:
         if unidad == 'bit' and unidad_conv == 'KB':
-            cant *= int(math.pow(10, 3))
+            cant = float(cant) * math.pow(10, -3)
         if unidad == 'bit' and unidad_conv == 'MB':
-            cant *= math.pow(10, 6)
+            cant = float(cant) * math.pow(10, -6)
         if unidad == 'bit' and unidad_conv == 'GB':
-            cant *= math.pow(10, 9)
+            cant = float(cant) * math.pow(10, -9)
 
     return cant
 
-print conversor(cant_info, unidad_info, unidad_info_conv)
+print str(conversor(cant_info, unidad_info, unidad_info_conv)) + " " + unidad_info_conv
+
 
 
 
