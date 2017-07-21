@@ -1,17 +1,24 @@
 # -*- coding: utf-8 -*-
+import math
 
-cant_info = input('Introduce una cantidad de información')
-unidad_info = input('¿ En que unidad esta expresada ? (bit, byte, KB, MB o GB) : ')
-unidad_info_conv = input('A que unidad desesa convertir (bit, byte, KB, MB o GB)')
+cant_info = raw_input('Introduce una cantidad de información')
+unidad_info = raw_input('¿ En que unidad esta expresada ? (bit, byte, KB, MB o GB) : ')
+unidad_info_conv = raw_input('A que unidad desesa convertir (bit, byte, KB, MB o GB)')
 
-def conversor(unidad_info, unidad_conv):
-    if unidad_info == unidad_conv:
+def conversor(cant, unidad, unidad_conv):
+    if unidad == unidad_conv:
         pass
     else:
-        if unidad_info == 'bit' and unidad_conv == 'byte':
+        if unidad == 'bit' and unidad_conv == 'KB':
+            cant *= int(math.pow(10, 3))
+        if unidad == 'bit' and unidad_conv == 'MB':
+            cant *= math.pow(10, 6)
+        if unidad == 'bit' and unidad_conv == 'GB':
+            cant *= math.pow(10, 9)
 
+    return cant
 
-
+print conversor(cant_info, unidad_info, unidad_info_conv)
 
 
 
